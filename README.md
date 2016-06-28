@@ -1,2 +1,2 @@
 # figlet
-Figlet docker test
+Figlet docker test for training
